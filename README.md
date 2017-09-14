@@ -1,2 +1,2 @@
-# RSI Class Repo
+# RSI-Class-Repo
 <!-- Code for class -->
