@@ -1,2 +1,2 @@
-# Weather-Page
-html of a weather page
+# RSI Class Repo
+<!-- Code for class -->
